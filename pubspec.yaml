@@ -53,7 +53,7 @@ dependencies:
   
   # Media & Files
   image_picker: ^1.0.7
-  file_picker: ^6.1.1
+  file_picker: ^8.1.7
   cached_network_image: ^3.3.1
   
   # Crypto & Security
