@@ -24,7 +24,7 @@ void main() async {
   await Hive.initFlutter();
   await Hive.openBox('settings');
   await Hive.openBox('auth');
-  
+
   runApp(const SureWorkApp());
 }
 

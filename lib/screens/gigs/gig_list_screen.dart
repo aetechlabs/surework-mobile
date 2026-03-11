@@ -4,7 +4,6 @@ import 'package:go_router/go_router.dart';
 import '../../providers/gig_provider.dart';
 import '../../providers/auth_provider.dart';
 import '../../models/gig.dart';
-import 'package:timeago/timeago.dart' as timeago;
 
 class GigListScreen extends StatefulWidget {
   const GigListScreen({super.key});
